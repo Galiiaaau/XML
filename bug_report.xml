@@ -1,1 +1,13 @@
-
+<report>
+  <platform>Windows 7 Google Chrome</platform>
+  <description>Отсутствует валидация полей 'Имя' и 'Тема' в форме 'Контакты</description>
+  <reproduction>
+    <first>Открыть сайт https://</first>
+    <second>Нажать на кнопку в футере сайта</second>
+    <third>Ввести невалидные данные у полей Тема и Форма в поле Контакты</third>
+    <fourth>Обратить внимание на валидацию полей формы</fourth>
+  </reproduction>
+  <severity>High</severity>
+  <priority>Medium</priority>
+  <attachments>...</attachments>
+</report>
